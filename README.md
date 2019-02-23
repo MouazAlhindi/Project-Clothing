@@ -2,7 +2,7 @@
 
 # Instructions
 
-- Make sure Docker is downloaded onto your machine and they Docker is running
+- Make sure Docker is downloaded onto your machine and that Docker is running
 - open up a terminal and cd into the git project directory
 - execute the following command:
 1. docker-compose build
